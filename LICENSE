@@ -1,4 +1,17 @@
-All image and audio files (including *.png, *.jpg, *.svg, *.mp3, *.wav 
+Push API Key
+AIzaSyCqfXgjDNs3BlXMwIrpA8eQccrR48krnhA
+ID
+1049571305444
+Endpoint
+ckYjYWWnJco:APA91bG389yHxivY-nHSgGw70kmx0SzHSLYL-Mmaa-FKqWYr19YKql0x4DjVGrL9e3ndZfnCSQaMduouPQnb8l7faEjkJPnZCLmo1nLOG2BLZrkrHgORdDlYXqCS1SHSCDAep0hxIMDJ
+ehIDGf4p9DA:APA91bEVr092lLuui3y1UdZtAnGzrMev-jRbMd5fBvcETP8oP5cyi99TveQ1udvtpwhpF-AREAhoKWgGGPyHxPQKB2GZdj5puNwIan1f0fZHYi7Hveri_EnrpuA4-pQ9truPjSregblF
+ehIDGf4p9DA:APA91bEVr092lLuui3y1UdZtAnGzrMev-jRbMd5fBvcETP8oP5cyi99TveQ1udvtpwhpF-AREAhoKWgGGPyHxPQKB2GZdj5puNwIan1f0fZHYi7Hveri_EnrpuA4-pQ9truPjSregblF
+fc-cN8us_l4:APA91bG4LM5QgTFIeJ13oL9K3qdsHq8RHAwBPDIRiITXisg8eApGgJBJkHhWByRyZv-qqzAk7r-YPKKVugoaiFYBVUO6xKZQgOJbxu10z2dZLJBmPW88etdYGs-Xszy1j8RiWx1sr-NW
+curl --header "Authorization: key=AIzaSyCqfXgjDNs3BlXMwIrpA8eQccrR48krnhA" --header "Content-Type: application/json" https://android.googleapis.com/gcm/send -d "{\"registration\_ids\":[\"APA91bEVr092lLuui3y1UdZtAnGzrMev-jRbMd5fBvcETP8oP5cyi99TveQ1udvtpwhpF-AREAhoKWgGGPyHxPQKB2GZdj5puNwIan1f0fZHYi7Hveri\_EnrpuA4-pQ9truPjSregblF\"]}"
+curl --header "Authorization: key=AIzaSyAc2e8MeZHA5NfhPANea01wnyeQD7uVY0c" --header "Content-Type: application/json" https://android.googleapis.com/gcm/send -d "{\"registration\_ids\":[\"APA91bG4LM5QgTFIeJ13oL9K3qdsHq8RHAwBPDIRiITXisg8eApGgJBJkHhWByRyZv-qqzAk7r-YPKKVugoaiFYBVUO6xKZQgOJbxu10z2dZLJBmPW88etdYGs-Xszy1j8RiWx1sr-NW\"]}"
+
+
+All image and audio files (including *.png, *.jpg, *.svg, *.mp3, *.wav
 and *.ogg) are licensed under the CC-BY-NC license. All other files are 
 licensed under the Apache 2 license. 
 
